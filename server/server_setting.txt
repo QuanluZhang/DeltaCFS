@@ -1,0 +1,7 @@
+/tmp/gearmanserver/
+127.0.0.1
+4730
+1
+/tmp/gearmandb/
+127.0.0.1
+6379
